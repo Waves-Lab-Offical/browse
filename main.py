@@ -3,6 +3,8 @@ from PyQt6.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget
 from cefpython3 import cefpython as cef
 import platform
 
+# Comment added by Eshal
+
 class CefWidget(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
