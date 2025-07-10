@@ -1,2 +1,2 @@
-PyQt6
-PyQt6-WebEngine
+PyQt6>=6.5.0
+cefpython3==66.1
