@@ -80,19 +80,6 @@ python main.py
 
 ---
 
-## Project Structure
-
-```
-WaveBrowse/
-├── main.py              # Main app launcher
-├── requirements.txt     # Required Python packages
-├── README.md            # This file
-├── icons/               # (Optional) Custom icons
-└── .venv/               # Your Python 3.10 virtual environment
-```
-
----
-
 ## License
 
 MIT License
@@ -113,5 +100,3 @@ Just Give credits
 ## Made with passion by Arham & WavesLab
 
 > "Why settle for Chrome when you can build your own?"
-
-```
